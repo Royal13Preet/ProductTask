@@ -1,0 +1,15 @@
+C:\Users\preethu\source\repos\ProductsManagement\ProductsManagement.Service\bin\Debug\net8.0\ProductsManagement.Service.deps.json
+C:\Users\preethu\source\repos\ProductsManagement\ProductsManagement.Service\bin\Debug\net8.0\ProductsManagement.Service.dll
+C:\Users\preethu\source\repos\ProductsManagement\ProductsManagement.Service\bin\Debug\net8.0\ProductsManagement.Service.pdb
+C:\Users\preethu\source\repos\ProductsManagement\ProductsManagement.Service\bin\Debug\net8.0\ProductsManagement.DataAccess.dll
+C:\Users\preethu\source\repos\ProductsManagement\ProductsManagement.Service\bin\Debug\net8.0\ProductsManagement.DataAccess.pdb
+C:\Users\preethu\source\repos\ProductsManagement\ProductsManagement.Service\obj\Debug\net8.0\ProductsManagement.Service.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\ProductsManagement\ProductsManagement.Service\obj\Debug\net8.0\ProductsManagement.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\ProductsManagement\ProductsManagement.Service\obj\Debug\net8.0\ProductsManagement.Service.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\ProductsManagement\ProductsManagement.Service\obj\Debug\net8.0\ProductsManagement.Service.AssemblyInfo.cs
+C:\Users\preethu\source\repos\ProductsManagement\ProductsManagement.Service\obj\Debug\net8.0\ProductsManagement.Service.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\ProductsManagement\ProductsManagement.Service\obj\Debug\net8.0\Products.F7745F53.Up2Date
+C:\Users\preethu\source\repos\ProductsManagement\ProductsManagement.Service\obj\Debug\net8.0\ProductsManagement.Service.dll
+C:\Users\preethu\source\repos\ProductsManagement\ProductsManagement.Service\obj\Debug\net8.0\refint\ProductsManagement.Service.dll
+C:\Users\preethu\source\repos\ProductsManagement\ProductsManagement.Service\obj\Debug\net8.0\ProductsManagement.Service.pdb
+C:\Users\preethu\source\repos\ProductsManagement\ProductsManagement.Service\obj\Debug\net8.0\ref\ProductsManagement.Service.dll

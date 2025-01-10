@@ -1,0 +1,284 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\preethu\\source\\repos\\ProductsManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9728ABD-8019-4021-A7E4-3B6600669744}|ProductsManagement.DataAccess\\ProductsManagement.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\productsmanagement\\productsmanagement.dataaccess\\dbmodel\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9728ABD-8019-4021-A7E4-3B6600669744}|ProductsManagement.DataAccess\\ProductsManagement.DataAccess.csproj|solutionrelative:productsmanagement.dataaccess\\dbmodel\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0680769B-A0DE-41A0-8F48-A8897D5F41DA}|ProductsManagement.WebApi\\ProductsManagement.WebApi.csproj|c:\\users\\preethu\\source\\repos\\productsmanagement\\productsmanagement.webapi\\validatemodelfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0680769B-A0DE-41A0-8F48-A8897D5F41DA}|ProductsManagement.WebApi\\ProductsManagement.WebApi.csproj|solutionrelative:productsmanagement.webapi\\validatemodelfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0680769B-A0DE-41A0-8F48-A8897D5F41DA}|ProductsManagement.WebApi\\ProductsManagement.WebApi.csproj|c:\\users\\preethu\\source\\repos\\productsmanagement\\productsmanagement.webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0680769B-A0DE-41A0-8F48-A8897D5F41DA}|ProductsManagement.WebApi\\ProductsManagement.WebApi.csproj|solutionrelative:productsmanagement.webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0680769B-A0DE-41A0-8F48-A8897D5F41DA}|ProductsManagement.WebApi\\ProductsManagement.WebApi.csproj|c:\\users\\preethu\\source\\repos\\productsmanagement\\productsmanagement.webapi\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0680769B-A0DE-41A0-8F48-A8897D5F41DA}|ProductsManagement.WebApi\\ProductsManagement.WebApi.csproj|solutionrelative:productsmanagement.webapi\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA4B7C8E-F8C2-4AE2-93E1-96FCAEC4793F}|ProductsManagement.Service\\ProductsManagement.Service.csproj|c:\\users\\preethu\\source\\repos\\productsmanagement\\productsmanagement.service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA4B7C8E-F8C2-4AE2-93E1-96FCAEC4793F}|ProductsManagement.Service\\ProductsManagement.Service.csproj|solutionrelative:productsmanagement.service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA4B7C8E-F8C2-4AE2-93E1-96FCAEC4793F}|ProductsManagement.Service\\ProductsManagement.Service.csproj|c:\\users\\preethu\\source\\repos\\productsmanagement\\productsmanagement.service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA4B7C8E-F8C2-4AE2-93E1-96FCAEC4793F}|ProductsManagement.Service\\ProductsManagement.Service.csproj|solutionrelative:productsmanagement.service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9728ABD-8019-4021-A7E4-3B6600669744}|ProductsManagement.DataAccess\\ProductsManagement.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\productsmanagement\\productsmanagement.dataaccess\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9728ABD-8019-4021-A7E4-3B6600669744}|ProductsManagement.DataAccess\\ProductsManagement.DataAccess.csproj|solutionrelative:productsmanagement.dataaccess\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0680769B-A0DE-41A0-8F48-A8897D5F41DA}|ProductsManagement.WebApi\\ProductsManagement.WebApi.csproj|c:\\users\\preethu\\source\\repos\\productsmanagement\\productsmanagement.webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0680769B-A0DE-41A0-8F48-A8897D5F41DA}|ProductsManagement.WebApi\\ProductsManagement.WebApi.csproj|solutionrelative:productsmanagement.webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9728ABD-8019-4021-A7E4-3B6600669744}|ProductsManagement.DataAccess\\ProductsManagement.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\productsmanagement\\productsmanagement.dataaccess\\repositories\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9728ABD-8019-4021-A7E4-3B6600669744}|ProductsManagement.DataAccess\\ProductsManagement.DataAccess.csproj|solutionrelative:productsmanagement.dataaccess\\repositories\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9728ABD-8019-4021-A7E4-3B6600669744}|ProductsManagement.DataAccess\\ProductsManagement.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\productsmanagement\\productsmanagement.dataaccess\\repositories\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9728ABD-8019-4021-A7E4-3B6600669744}|ProductsManagement.DataAccess\\ProductsManagement.DataAccess.csproj|solutionrelative:productsmanagement.dataaccess\\repositories\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0680769B-A0DE-41A0-8F48-A8897D5F41DA}|ProductsManagement.WebApi\\ProductsManagement.WebApi.csproj|c:\\users\\preethu\\source\\repos\\productsmanagement\\productsmanagement.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0680769B-A0DE-41A0-8F48-A8897D5F41DA}|ProductsManagement.WebApi\\ProductsManagement.WebApi.csproj|solutionrelative:productsmanagement.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0680769B-A0DE-41A0-8F48-A8897D5F41DA}|ProductsManagement.WebApi\\ProductsManagement.WebApi.csproj|c:\\users\\preethu\\source\\repos\\productsmanagement\\productsmanagement.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0680769B-A0DE-41A0-8F48-A8897D5F41DA}|ProductsManagement.WebApi\\ProductsManagement.WebApi.csproj|solutionrelative:productsmanagement.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0680769B-A0DE-41A0-8F48-A8897D5F41DA}|ProductsManagement.WebApi\\ProductsManagement.WebApi.csproj|c:\\users\\preethu\\source\\repos\\productsmanagement\\productsmanagement.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0680769B-A0DE-41A0-8F48-A8897D5F41DA}|ProductsManagement.WebApi\\ProductsManagement.WebApi.csproj|solutionrelative:productsmanagement.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\preethu\\source\\repos\\ProductsManagement\\ProductsManagement.DataAccess\\Migrations\\20250110114231_Intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductsManagement.DataAccess\\Migrations\\20250110114231_Intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9728ABD-8019-4021-A7E4-3B6600669744}|ProductsManagement.DataAccess\\ProductsManagement.DataAccess.csproj|c:\\users\\preethu\\source\\repos\\productsmanagement\\productsmanagement.dataaccess\\migrations\\20250110114412_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9728ABD-8019-4021-A7E4-3B6600669744}|ProductsManagement.DataAccess\\ProductsManagement.DataAccess.csproj|solutionrelative:productsmanagement.dataaccess\\migrations\\20250110114412_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 215,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\ProductsManagement\\ProductsManagement.WebApi\\LoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "ProductsManagement.WebApi\\LoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\ProductsManagement\\ProductsManagement.WebApi\\LoggingMiddleware.cs",
+              "RelativeToolTip": "ProductsManagement.WebApi\\LoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T11:58:47.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\ProductsManagement\\ProductsManagement.Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductsManagement.Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\ProductsManagement\\ProductsManagement.Service\\ProductService.cs",
+              "RelativeToolTip": "ProductsManagement.Service\\ProductService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T10:33:01.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\ProductsManagement\\ProductsManagement.Service\\IProductService.cs",
+              "RelativeDocumentMoniker": "ProductsManagement.Service\\IProductService.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\ProductsManagement\\ProductsManagement.Service\\IProductService.cs",
+              "RelativeToolTip": "ProductsManagement.Service\\IProductService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wCAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T12:14:33.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\ProductsManagement\\ProductsManagement.WebApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ProductsManagement.WebApi\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\ProductsManagement\\ProductsManagement.WebApi\\WeatherForecast.cs",
+              "RelativeToolTip": "ProductsManagement.WebApi\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T11:56:09.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValidateModelFilter.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\ProductsManagement\\ProductsManagement.WebApi\\ValidateModelFilter.cs",
+              "RelativeDocumentMoniker": "ProductsManagement.WebApi\\ValidateModelFilter.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\ProductsManagement\\ProductsManagement.WebApi\\ValidateModelFilter.cs",
+              "RelativeToolTip": "ProductsManagement.WebApi\\ValidateModelFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T10:28:47.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\ProductsManagement\\ProductsManagement.DataAccess\\DBmodel\\Product.cs",
+              "RelativeDocumentMoniker": "ProductsManagement.DataAccess\\DBmodel\\Product.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\ProductsManagement\\ProductsManagement.DataAccess\\DBmodel\\Product.cs*",
+              "RelativeToolTip": "ProductsManagement.DataAccess\\DBmodel\\Product.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T10:03:40.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\ProductsManagement\\ProductsManagement.DataAccess\\ProductDBContext.cs",
+              "RelativeDocumentMoniker": "ProductsManagement.DataAccess\\ProductDBContext.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\ProductsManagement\\ProductsManagement.DataAccess\\ProductDBContext.cs",
+              "RelativeToolTip": "ProductsManagement.DataAccess\\ProductDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T11:40:54.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\ProductsManagement\\ProductsManagement.WebApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductsManagement.WebApi\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\ProductsManagement\\ProductsManagement.WebApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductsManagement.WebApi\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T11:56:51.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\ProductsManagement\\ProductsManagement.DataAccess\\Repositories\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "ProductsManagement.DataAccess\\Repositories\\ProductRepo.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\ProductsManagement\\ProductsManagement.DataAccess\\Repositories\\ProductRepo.cs",
+              "RelativeToolTip": "ProductsManagement.DataAccess\\Repositories\\ProductRepo.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T10:07:55.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\ProductsManagement\\ProductsManagement.DataAccess\\Repositories\\IProductRepo.cs",
+              "RelativeDocumentMoniker": "ProductsManagement.DataAccess\\Repositories\\IProductRepo.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\ProductsManagement\\ProductsManagement.DataAccess\\Repositories\\IProductRepo.cs",
+              "RelativeToolTip": "ProductsManagement.DataAccess\\Repositories\\IProductRepo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T10:08:30.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\ProductsManagement\\ProductsManagement.WebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ProductsManagement.WebApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\ProductsManagement\\ProductsManagement.WebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ProductsManagement.WebApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T11:15:18.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\ProductsManagement\\ProductsManagement.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "ProductsManagement.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\ProductsManagement\\ProductsManagement.WebApi\\Program.cs",
+              "RelativeToolTip": "ProductsManagement.WebApi\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T11:27:00.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250110114412_Intial.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\ProductsManagement\\ProductsManagement.DataAccess\\Migrations\\20250110114412_Intial.cs",
+              "RelativeDocumentMoniker": "ProductsManagement.DataAccess\\Migrations\\20250110114412_Intial.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\ProductsManagement\\ProductsManagement.DataAccess\\Migrations\\20250110114412_Intial.cs",
+              "RelativeToolTip": "ProductsManagement.DataAccess\\Migrations\\20250110114412_Intial.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T11:44:12.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250110114231_Intial.cs",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\ProductsManagement\\ProductsManagement.DataAccess\\Migrations\\20250110114231_Intial.cs",
+              "RelativeDocumentMoniker": "ProductsManagement.DataAccess\\Migrations\\20250110114231_Intial.cs",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\ProductsManagement\\ProductsManagement.DataAccess\\Migrations\\20250110114231_Intial.cs",
+              "RelativeToolTip": "ProductsManagement.DataAccess\\Migrations\\20250110114231_Intial.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T11:42:31.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\preethu\\source\\repos\\ProductsManagement\\ProductsManagement.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductsManagement.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\preethu\\source\\repos\\ProductsManagement\\ProductsManagement.WebApi\\appsettings.json",
+              "RelativeToolTip": "ProductsManagement.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-10T11:10:55.205Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 51,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

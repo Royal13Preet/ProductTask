@@ -1,0 +1,14 @@
+C:\Users\preethu\source\repos\ProductsManagement\ProductsManagement.DataAccess\bin\Debug\net8.0\ProductsManagement.DataAccess.deps.json
+C:\Users\preethu\source\repos\ProductsManagement\ProductsManagement.DataAccess\bin\Debug\net8.0\ProductsManagement.DataAccess.runtimeconfig.json
+C:\Users\preethu\source\repos\ProductsManagement\ProductsManagement.DataAccess\bin\Debug\net8.0\ProductsManagement.DataAccess.dll
+C:\Users\preethu\source\repos\ProductsManagement\ProductsManagement.DataAccess\bin\Debug\net8.0\ProductsManagement.DataAccess.pdb
+C:\Users\preethu\source\repos\ProductsManagement\ProductsManagement.DataAccess\obj\Debug\net8.0\ProductsManagement.DataAccess.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\ProductsManagement\ProductsManagement.DataAccess\obj\Debug\net8.0\ProductsManagement.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\ProductsManagement\ProductsManagement.DataAccess\obj\Debug\net8.0\ProductsManagement.DataAccess.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\ProductsManagement\ProductsManagement.DataAccess\obj\Debug\net8.0\ProductsManagement.DataAccess.AssemblyInfo.cs
+C:\Users\preethu\source\repos\ProductsManagement\ProductsManagement.DataAccess\obj\Debug\net8.0\ProductsManagement.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\ProductsManagement\ProductsManagement.DataAccess\obj\Debug\net8.0\ProductsManagement.DataAccess.dll
+C:\Users\preethu\source\repos\ProductsManagement\ProductsManagement.DataAccess\obj\Debug\net8.0\refint\ProductsManagement.DataAccess.dll
+C:\Users\preethu\source\repos\ProductsManagement\ProductsManagement.DataAccess\obj\Debug\net8.0\ProductsManagement.DataAccess.pdb
+C:\Users\preethu\source\repos\ProductsManagement\ProductsManagement.DataAccess\obj\Debug\net8.0\ProductsManagement.DataAccess.genruntimeconfig.cache
+C:\Users\preethu\source\repos\ProductsManagement\ProductsManagement.DataAccess\obj\Debug\net8.0\ref\ProductsManagement.DataAccess.dll
